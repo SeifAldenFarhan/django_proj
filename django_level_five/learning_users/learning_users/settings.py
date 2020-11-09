@@ -27,7 +27,7 @@ SECRET_KEY = 's0-(8f^+k8q7&*2qgk7!z+j+_xu3d!a_r@mwf_qys0-754-y03'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['seifa.pythonanywhere.com']
+ALLOWED_HOSTS = ['http://seifa.pythonanywhere.com/']
 
 # Application definition
 
